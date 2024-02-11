@@ -19,3 +19,6 @@ Examining the bandwidth, a significant figure is observed for Local DRAM bandwid
 ### Conclusion
 
 In summary, accessing remote DRAMs is found to be much more efficient and easier compared to local disks, attributed to the significantly higher bandwidths facilitated by the network serving as the bottleneck.
+
+
+![Results-EPL452-HW1](https://github.com/ucy-cs452-sp24/hw1-irodos01/assets/81627543/3f995f55-7f6f-44ca-920a-24921c103d4a)
